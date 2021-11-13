@@ -1,16 +1,5 @@
-# flickd
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 13 - 2021-11-14 at 01 37 07](https://user-images.githubusercontent.com/79041151/141657611-8c484dbe-f4f3-4fbe-90e9-637db3d420e1.png)
+![Simulator Screen Shot - iPhone 13 - 2021-11-14 at 01 37 18](https://user-images.githubusercontent.com/79041151/141657618-3f83eded-fb29-4dfe-a816-6bd1b5b2e94c.png)
+![Simulator Screen Shot - iPhone 13 - 2021-11-14 at 01 37 30](https://user-images.githubusercontent.com/79041151/141657624-093cd102-7845-4cfa-9ac3-a4199c34f03c.png)
+![Simulator Screen Shot - iPhone 13 - 2021-11-14 at 01 37 41](https://user-images.githubusercontent.com/79041151/141657628-484bebfa-c0dc-4240-a0bc-bae8bda6940d.png)
+![Simulator Screen Shot - iPhone 13 - 2021-11-14 at 01 37 53](https://user-images.githubusercontent.com/79041151/141657632-0006154d-eb59-4dab-b791-6712fb4bcb6c.png)
